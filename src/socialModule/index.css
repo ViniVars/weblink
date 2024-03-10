@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.str-chat__li--single {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
