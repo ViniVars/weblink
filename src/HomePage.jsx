@@ -41,7 +41,7 @@ import Home from './Gojo/Home';
 const LinkItems = [
   { name: 'Bidding', icon: SiLivechat,link:'/home' },
   { name: 'Chats', icon: FaHeart,link:'/post' },
-  { name: 'Notification', icon: FaFaceKissWinkHeart,link:'/match' },
+  { name: 'Notification', icon: FaFaceKissWinkHeart,link:'/noti' },
     {name:'Friend Recomdations',icon:GiLoveLetter,link:'/fr'}
 
   
